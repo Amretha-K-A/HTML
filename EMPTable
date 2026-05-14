@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table</title>
+</head>
+<body>
+    <table border="1" width="500" height="150" cellspacing="10" cellpadding="10">
+        <caption><h3>Employee Table</h3></caption>
+        <tr> <th>Name</th>  <th>Sal</th>         <th>Eid</th>   </tr>
+        <tr> <td>Amre</td>  <td>54000</td>       <td>12738</td> </tr>
+        <tr> <td>Paradox</td>  <td>54000</td>    <td>12754</td> </tr>
+        <tr> <td>akshaya</td>  <td>54000</td>    <td>12735</td> </tr>
+    </table>
+ </body >
+ </html >

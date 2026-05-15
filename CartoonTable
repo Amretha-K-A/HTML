@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Table</title>
+</head>
+<body>
+<table border="1" width="500" height="150" cellspacing="5" cellpadding="10">
+        <tr> 
+            <th>Character Image</th> 
+            <th>Character Name</th>
+            <th>Known For</th> 
+            </tr>
+        <tr> 
+            <td><img src="https://i.pinimg.com/originals/70/60/56/706056af0d5b1a8ee37282b65d7a857f.gif" alt="Doremon gif" width="100" height="100"> </td>
+             <td>Doremon</td> 
+             <td> 
+                <ul> 
+                    <li>Fun</li> 
+                    <li>Help nobita</li> 
+                    <li>Doremon Pocket </li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><img src="https://www.icegif.com/wp-content/uploads/tom-and-jerry-icegif-9.gif" alt="Tom gif" width="100" height="100"> </td>
+            <td>Tom</td> 
+             <td>
+                <ul>
+                    <li>drink milk</li> 
+                    <li>chase Jerry</li> 
+                    <li>like fish</li>
+                </ul>
+            </td>
+        </tr>
+        <tr> 
+            <td> <img src="https://media.tenor.com/BZqjUePjNP0AAAAC/tom-and-jerry-jerry-hi.gif" alt="jerry gif" width="100" height="100"></td> 
+            <td>Jerry</td> 
+            <td>
+                <ul>
+                    <li>eat cheese</li>
+                     <li>chase Tom</li> 
+                     <li>like vegetables</li>
+                </ul>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
